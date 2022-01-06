@@ -1,0 +1,161 @@
+body{
+    margin: 0px;
+}
+h1{
+    font-size: 55px;
+    border-left: rgb(255, 94, 0);
+    border-image-slice: 1%;
+}
+h2{
+    font-size: 45px;
+}
+h3{
+    font-size:30px;
+    text-align: center;
+}
+h4{
+    font-size: 25px;
+    
+}
+p{
+    text-align: justify;
+}
+section{
+    display: flex;
+}
+#First-line{
+    color: rgb(3, 3, 75);
+}
+#Second-line{
+    color: rgb(20, 145, 41)
+}
+#Left-line{
+    border-left: 5px solid peru;
+    border-radius: 2px;
+}
+#button{
+    text-decoration: none;
+    color:white;
+    background-image: linear-gradient(purple,orange);
+    padding: 15px 30px;
+    border-radius: 8px;
+}
+#My-mission{
+    text-align: center;
+}
+#Third-line-one{
+    color: rgb(41, 8, 75);
+}
+#Third-line-two{
+    color: rgb(57, 75, 8);
+}
+#Fourthline-one{
+    color: rgb(184, 29, 29);
+}
+#Fourthline-two{
+    color: rgb(172, 81, 28);
+}
+#bgcolor-one{
+    background-color:rgba(128, 0, 128, 0.050);
+    margin-left: 100px;
+    margin-right: 10px;
+    border-radius: 25px;
+    padding: 20px;
+    
+}
+#bgcolor-two{
+    background-color:rgba(25, 255, 4, 0.050);
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 25px;
+    padding: 20px;
+    
+}
+#bgcolor-three{
+    background-color:rgba(255, 138, 5, 0.050);
+    margin-left: 10px;
+    margin-right: 100px;
+    border-radius: 25px;
+    padding: 20px;
+    
+}
+#Third-section-left-area{
+    padding-right: 0px;
+}
+#Third-section-right-area{
+    padding-left: 0px;
+    
+}
+#Fourth-section-right-area{
+    
+   
+    padding-right:0px;
+    
+}
+#Background-image{
+    background-image: url(pictures/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: 12px;
+}
+#Background-image-2{
+    background-image: url(pictures/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+#affiliates{
+    
+    color: rgb(172, 81, 28);
+}
+#logo{
+    width: 80%;
+    padding-left: 150px;
+    border-color: black;
+}
+#footer-alignment{
+    text-align: center;
+    background-color: rgba(5, 5, 5, 0.616);
+    padding: 1px;
+}
+#footerfirst{
+    color: rgb(12, 65, 12);
+}
+#footersecond{
+    color: red;
+}
+.First-width{
+    width: 50%;
+    padding:100px;
+}
+.First-width img{
+    width:80%;
+}
+.Second-width{
+    width: 50%;
+    padding:100px;
+    
+}
+.Second-width img{
+    width:50%;
+}
+.Third-width{
+    width: 50%;
+    padding: 10px 100px;
+    
+}
+.Third-width img{
+    width:70%;
+    height:95%;
+    
+}
+.Fourth-width{
+    width: 50%;
+    padding:100px;
+    
+}
+.Fourth-width img{
+    width:70%;
+    height:95%;
+    
+}
+
